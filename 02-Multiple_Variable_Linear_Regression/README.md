@@ -1,3 +1,3 @@
 # Multiple Variable linear regression
 
-Predicting output based on two feaures.
+Predicting output based on two features.
